@@ -11,4 +11,5 @@ export const loop = ErrorMapper.wrapLoop(() => {
       delete Memory.creeps[name];
     }
   }
+  // First Change for branching paths
 });
